@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://apexfit-39ca7a0c.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

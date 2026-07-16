@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://apexfit-39ca7a0c.zappy5.app
+https://example.com
 חנות הספורט אונליין שלך לחוויית קנייה מושלמת. ציוד איכותי לכל אימון, משלוח מהיר ושירות ללא פשרות. היכנס עכשיו ל-ApexFit והתחל לנצח!
 
 ### יעדי אימון
-https://apexfit-39ca7a0c.zappy5.app/training-goals
+https://example.com/training-goals
 בין אם אתה רץ למרחקים או מרים משקולות, ב-ApexFit תמצא ציוד שמותאם בדיוק ליעד שלך. דיוק, איכות ותוצאות מחכים לך. התחל להתאמן חכם יותר!
 
 ### הסיפור שלנו
-https://apexfit-39ca7a0c.zappy5.app/brand-story
+https://example.com/brand-story
 ApexFit נולדה מאהבה לספורט ומחויבות לאיכות. גלה את הסיפור שמניע אותנו לספק לך רק את הטוב ביותר. הצטרף למסע שלנו והרגיש את ההבדל!
 
 ### צור קשר
-https://apexfit-39ca7a0c.zappy5.app/contact
+https://example.com/contact
 יש שאלה על ציוד ספורט? צוות ApexFit כאן בשבילך. צור קשר עוד היום ונחזור אליך במהירות עם הפתרון המושלם. החוויה שלך מתחילה בשיחה אחת!
 
 ### Products
-https://apexfit-39ca7a0c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - ApexFit
 
 ### Cart
-https://apexfit-39ca7a0c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://apexfit-39ca7a0c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://apexfit-39ca7a0c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://apexfit-39ca7a0c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://apexfit-39ca7a0c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://apexfit-39ca7a0c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - ApexFit
 
 ### Category
-https://apexfit-39ca7a0c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - ApexFit
 
 ### תודה - ApexFit
-https://apexfit-39ca7a0c.zappy5.app/thank-you
+https://example.com/thank-you
 ApexFit - תודה - ApexFit
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://apexfit-39ca7a0c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://apexfit-39ca7a0c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://apexfit-39ca7a0c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ Sports E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://apexfit-39ca7a0c.zappy5.app/sitemap.xml
-- Robots: https://apexfit-39ca7a0c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://apexfit-39ca7a0c.zappy5.app/llms-full.txt
-- Products (JSON): https://apexfit-39ca7a0c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://apexfit-39ca7a0c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

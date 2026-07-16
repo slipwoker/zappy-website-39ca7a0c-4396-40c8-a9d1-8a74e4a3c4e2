@@ -1,0 +1,106 @@
+# ApexFit — Generative Engine Optimization Map
+
+> An online store specializing in sports products, focused on providing customers with a seamless e-commerce shopping experience for athletic and sports-related goods.
+
+---
+
+## Pages
+
+### בית
+https://apexfit-39ca7a0c.zappy5.app
+חנות הספורט אונליין שלך לחוויית קנייה מושלמת. ציוד איכותי לכל אימון, משלוח מהיר ושירות ללא פשרות. היכנס עכשיו ל-ApexFit והתחל לנצח!
+
+### יעדי אימון
+https://apexfit-39ca7a0c.zappy5.app/training-goals
+בין אם אתה רץ למרחקים או מרים משקולות, ב-ApexFit תמצא ציוד שמותאם בדיוק ליעד שלך. דיוק, איכות ותוצאות מחכים לך. התחל להתאמן חכם יותר!
+
+### הסיפור שלנו
+https://apexfit-39ca7a0c.zappy5.app/brand-story
+ApexFit נולדה מאהבה לספורט ומחויבות לאיכות. גלה את הסיפור שמניע אותנו לספק לך רק את הטוב ביותר. הצטרף למסע שלנו והרגיש את ההבדל!
+
+### צור קשר
+https://apexfit-39ca7a0c.zappy5.app/contact
+יש שאלה על ציוד ספורט? צוות ApexFit כאן בשבילך. צור קשר עוד היום ונחזור אליך במהירות עם הפתרון המושלם. החוויה שלך מתחילה בשיחה אחת!
+
+### Products
+https://apexfit-39ca7a0c.zappy5.app/products
+המוצרים שלנו - ApexFit
+
+### Cart
+https://apexfit-39ca7a0c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://apexfit-39ca7a0c.zappy5.app/checkout
+תשלום
+
+### Login
+https://apexfit-39ca7a0c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://apexfit-39ca7a0c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://apexfit-39ca7a0c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://apexfit-39ca7a0c.zappy5.app/product/:slug
+פרטי המוצר - ApexFit
+
+### Category
+https://apexfit-39ca7a0c.zappy5.app/category/:slug
+מוצרים - ApexFit
+
+### תודה - ApexFit
+https://apexfit-39ca7a0c.zappy5.app/thank-you
+ApexFit - תודה - ApexFit
+
+## Legal & Policy
+
+### Privacy Policy
+https://apexfit-39ca7a0c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://apexfit-39ca7a0c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://apexfit-39ca7a0c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ApexFit
+An online store specializing in sports products, focused on providing customers with a seamless e-commerce shopping experience for athletic and sports-related goods.
+
+## Target Audience
+- חובבי כושר מתקדמים
+- בוני חדרי כושר ביתיים
+- חברי מועדוני ספורט
+- ספורטאים צעירים
+- בוני חדרי כושר בבית
+
+## Industry
+Sports E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://apexfit-39ca7a0c.zappy5.app/sitemap.xml
+- Robots: https://apexfit-39ca7a0c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://apexfit-39ca7a0c.zappy5.app/llms-full.txt
+- Products (JSON): https://apexfit-39ca7a0c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://apexfit-39ca7a0c.zappy5.app/product-feed.xml

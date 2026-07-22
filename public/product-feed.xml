@@ -4,6 +4,94 @@
     <title>ApexFit</title>
     <link>https://example.com</link>
     <description>Product feed for ApexFit</description>
-    <lastBuildDate>Thu, 16 Jul 2026 22:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 15:26:39 GMT</lastBuildDate>
+    <item>
+      <g:id>e83cdd9e-8d8f-497c-923c-d688cad9d3b3</g:id>
+      <g:title>מכשיר חתירה מתקפל הידראולי</g:title>
+      <g:description>מכשיר חתירה הידראולי עם 12 רמות התנגדות. מושב ארגונומי, דוושות מונעות החלקה, ידיות ספוג. צג LCD למעקב אחר זמן, מרחק, קלוריות וקצב. מתקפל לאחסון קל. מתאים לאימוני לב-ריאה ביתיים.</g:description>
+      <g:link>https://example.com/product/mkshyr-chtyrh-mtkpl-hydravly-el86ac</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>1299.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d3fea104-1220-4748-b756-86d67909cd1c</g:id>
+      <g:title>מזרן יוגה וכושר מקצועי 6 מ&quot;מ</g:title>
+      <g:description>מזרן יוגה וכושר בעובי 6 מ&quot;מ, צפיפות TPE כפולה למניעת החלקה. דו-צדדי במרקם מונע החלקה. אורך 183 ס&quot;מ, רוחב 61 ס&quot;מ. קל משקל עם רצועת נשיאה. מתאים ליוגה, פילאטיס, מתיחות ואימוני רצפה.</g:description>
+      <g:link>https://example.com/product/mzrn-yvgh-vkvshr-mktsvay-6-mm-5k7o7a</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>149.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>1b49c2a4-a705-46be-9168-9eaf1ea22e31</g:id>
+      <g:title>גומיות התנגדות סט 5 רמות</g:title>
+      <g:description>סט 5 גומיות התנגדות ברמות קושי מדורגות: קלה במיוחד (5-10 ק&quot;ג), קלה (10-20 ק&quot;ג), בינונית (20-35 ק&quot;ג), כבדה (35-55 ק&quot;ג), כבדה במיוחד (55-80 ק&quot;ג). עשויות לטקס טבעי איכותי. מגיעות עם תיק נשיאה ומדריך תרגילים.</g:description>
+      <g:link>https://example.com/product/gvmyvt-htngdvt-st-5-rmvt-z6v98d</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>129.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d78f80bf-9a06-499b-a33c-a880e6fef036</g:id>
+      <g:title>חבל קפיצה מקצועי Speed Rope</g:title>
+      <g:description>חבל קפיצה מהיר עם כבל פלדה מצופה PVC. ידיות ארגונומיות אלומיניום עם מיסבים מדויקים לסיבוב חלק. אורך מתכוונן. משקל 180 גרם בלבד. מושלם לאימוני אירובי, זריזות, בוקסינג ו-CrossFit.</g:description>
+      <g:link>https://example.com/product/chbl-kpytsh-mktsvay-speed-rope-rb5i5h</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>89.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>8ced9fda-100c-4d05-8d27-7af28a8fe46f</g:id>
+      <g:title>מתקן מתח מקבילים צמוד קיר</g:title>
+      <g:description>מתקן מתח ומקבילים מתקפל צמוד קיר לחיסכון במקום. מבנה פלדה מחוזק, ידיות ספוג מונעות החלקה. תרגילי מתח, מקבילים, הרמת ברכיים ועוד. עומס מקסימלי: 200 ק&quot;ג. אידיאלי לחדר כושר ביתי קטן.</g:description>
+      <g:link>https://example.com/product/mtkn-mtch-mkbylym-tsmvd-kyr-d0p4lc</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>449.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d40f3465-a8ae-446f-a546-e011afe09d19</g:id>
+      <g:title>ספסל כוח מתכוונן מקצועי</g:title>
+      <g:description>ספסל כוח מתכוונן 7 מצבים – שטוח, שיפוע חיובי, שיפוע שלילי. משענת גב מרופדת בעובי 7 ס&quot;מ, שלדת פלדה מחוזקת. מתאים ללחיצות חזה, אימוני כתפיים, ותרגילים חופשיים. עומס מקסימלי: 350 ק&quot;ג.</g:description>
+      <g:link>https://example.com/product/spsl-kvch-mtkvvnn-mktsvay-i7kh64</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>899.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c415a3c9-9efe-48a6-a4e7-17a985aec562</g:id>
+      <g:title>סט דיסקיות גומי 50 ק&quot;ג</g:title>
+      <g:description>סט דיסקיות גומי איכותיות: 2×10 ק&quot;ג, 2×7.5 ק&quot;ג, 2×5 ק&quot;ג, 2×2.5 ק&quot;ג. דיסקיות גומי מצופות למניעת רעש ורצפה פגומה. תואמות למוטות אולימפיים 50 מ&quot;מ. אידיאליות לחדר כושר ביתי.</g:description>
+      <g:link>https://example.com/product/st-dyskyvt-gvmy-50-kg-69h2rn</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>499.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>0dad8a38-1cc6-46e8-b863-fbd7a18a76bd</g:id>
+      <g:title>משקולת אולימפית 20 ק&quot;ג – מוט פלדה</g:title>
+      <g:description>מוט משקולות אולימפי מפלדת אל-חלד, קוטר 50 מ&quot;מ, תואם לדיסקיות סטנדרטיות. אורך 220 ס&quot;מ, משקל עצמי 20 ק&quot;ג. מתאים לאימוני כוח מתקדמים, חדר כושר ביתי ומועדונים מקצועיים.</g:description>
+      <g:link>https://example.com/product/mshkvlt-avlympyt-20-kg-mvt-pldh-4jfz2x</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>349.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>ApexFit</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
